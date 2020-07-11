@@ -11,7 +11,7 @@
 - 📫 How to reach me: Skype: mominriyadh  | Email: mominriyadh@gmail.com  
 
 Get in Touch
- **LinkedIn**: https://www.linkedin.com/in/mominriyadh/
- **Stackoverflow**: https://stackoverflow.com/users/4672474/momin
- **Twitter**: https://twitter.com/mominriyadh786
+ - **LinkedIn**: https://www.linkedin.com/in/mominriyadh/
+ - **Stackoverflow**: https://stackoverflow.com/users/4672474/momin
+ - **Twitter**: https://twitter.com/mominriyadh786
 
