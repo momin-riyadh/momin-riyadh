@@ -8,6 +8,15 @@ ES6, JavaScript with Vue/React ? Yep, that's what I do best. Mix that with lots 
 - 💬 Ask me about Front End Technology
 - 📫 How to reach me: Skype: mominriyadh  | Email: mominriyadh@gmail.com  
 
+```javascript
+{
+  "frontend"   : ["React", "Vue"],
+  "backend"    : ["Nestjs", "Express"],
+  "languages"  : ["Typescript", "Javascript"],
+  "ui"         : ["Material-ui", "Styled-components", "Tailwind.css", "Bootstrap 4+"]
+}
+```
+
 
 ### Get in Touch
 ------------------------------------------------------------------------
