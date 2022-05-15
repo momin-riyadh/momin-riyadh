@@ -14,6 +14,7 @@ ES6, JavaScript with Vue/React ? Yep, that's what I do best. Mix that with lots 
   "backend"    : ["Nestjs", "Express"],
   "languages"  : ["Typescript", "Javascript"],
   "ui"         : ["Material-ui", "Styled-components", "Tailwind.css", "Bootstrap 4+"]
+  "database"   : ["MongoDB"]
 }
 ```
 
