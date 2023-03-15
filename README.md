@@ -1,5 +1,16 @@
 ## Momin Riyadh
-ES6, JavaScript with Vue/React ? Yep, that's what I do best. Mix that with lots of head nodding from ambient music and you've got me in a nutshell.
+Hello and welcome to my Github profile!
+
+I am a Software Engineer with a focus on Frontend Development. With a strong background in HTML, CSS, JavaScript, and various frontend frameworks, I am dedicated to delivering high-quality, responsive, and user-friendly web applications.
+
+As a Software Engineer, I am responsible for the complete lifecycle of scalable, secure, and well-designed software products. I work closely with designers, analysts, quality assurance, and other teams to ensure that each design is translated into a real-life product that meets the client's requirements.
+
+Apart from my work, I am passionate about staying up-to-date with the latest frontend tooling and technology. I am always looking for new opportunities to learn and grow as a developer, and I enjoy sharing my knowledge with others through blog posts, tutorials, and open-source contributions.
+
+If you are looking for a Software Engineer with a strong frontend background and a dedication to delivering high-quality software products, I believe my skills and experience would be ideal for you.
+
+Thank you for taking the time to visit my profile, and I look forward to connecting with you soon!
+
 
 - 🔭 I’m currently working on Minimal Viable Product called **Ticket Booking**
 - 🌱 I’m currently learning `Redux`, `GraphQL`, `Serverless`, `Jamstack`
