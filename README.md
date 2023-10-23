@@ -1,5 +1,5 @@
-## Momin Riyadh
-Hello and welcome to my Github profile!
+
+## Hello, and welcome to my Github profile!
 
 I am a Software Engineer with a focus on Frontend Development. With a strong background in HTML, CSS, JavaScript, and various frontend frameworks, I am dedicated to delivering high-quality, responsive, and user-friendly web applications.
 
