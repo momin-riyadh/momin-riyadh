@@ -7,7 +7,6 @@ My expertise lies in leveraging React's robust component-based architecture to c
 
 Whether you need to revamp an existing web application or build a new one from scratch, I am confident in my ability to contribute to your project's success with my technical skills and passion for delivering exceptional user experiences.
 
-Whether you need to revamp an existing web application or build a new one from scratch, I am confident in my ability to contribute to your project's success with my technical skills and passion for delivering exceptional user experiences.
 
 
 - 🔭 I’m currently working on Minimal Viable Product called **Ticket Booking**
